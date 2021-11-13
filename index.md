@@ -4,6 +4,7 @@ layout: default
 
 # Summary
 My name is Joseph.
+
 &nbsp
 &nbsp
 &nbsp
@@ -13,6 +14,7 @@ My name is Joseph.
 &nbsp
 &nbsp
 &nbsp
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).

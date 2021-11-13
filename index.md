@@ -6,67 +6,7 @@ layout: default
 My name is Joseph.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+$~~~~~~~~~~~$
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

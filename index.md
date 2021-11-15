@@ -12,6 +12,10 @@ My name is Joseph.
   ><i class="fab fa-reddit-alien"></i
 ></a>
 
+<a class="btn btn-primary" style="background-color: #ff4500;" href="#!" role="button"
+  ><i class="fab fa-reddit-alien"></i
+></a>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).

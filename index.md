@@ -9,6 +9,8 @@ My name is Joseph.
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
+<button type="button" class="btn btn-primary">Button</button> <button type="button" class="btn btn-primary">Button</button><button type="button" class="btn btn-primary">Button</button>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).

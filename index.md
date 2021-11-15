@@ -9,10 +9,9 @@ layout: default
 My name is Joseph.
 
 &nbsp;
-![Cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <p align="center">
-  <img width="600" height="200" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif">
+  <img width="600" height="450" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif">
 </p>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

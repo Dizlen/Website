@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-<button type="button" class="btn btn-primary">Home</button><button type="button" class="btn btn-primary">Games</button><button type="button" class="btn btn-primary">About</button>
-
 # Summary
 My name is Joseph.
 

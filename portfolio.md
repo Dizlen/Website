@@ -2,8 +2,5 @@
 layout: default
 ---
 
-## Welcome to another page
+# Welcome to my portfolio!
 
-_yay_
-
-[back](./)

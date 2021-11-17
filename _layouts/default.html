@@ -4,6 +4,22 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+    <style>
+      .container {
+        height: 200px;
+        position: relative;
+        border: 3px solid green;
+      }
+      
+      .vertical-center {
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+      }
+    </style>
+
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
@@ -24,7 +40,11 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
-          <a href="index"><button>Home</button></a><a href="portfolio"><button>Portfolio</button></a><a href="www.josephpollard.co.uk"><button>Blog</button></a><a href="www.josephpollard.co.uk"><button>About</button></a>
+        </div>
+
+        <div class="container">
+          <div class="vertical-center">
+            <a href="index"><button>Home</button></a><a href="portfolio"><button>Portfolio</button></a><a href="www.josephpollard.co.uk"><button>Blog</button></a><a href="www.josephpollard.co.uk"><button>About</button></a>          </div>
         </div>
 
         {{ content }}

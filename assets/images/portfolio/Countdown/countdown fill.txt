@@ -1,0 +1,139 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+using I2.Loc;
+using Tapped.ServiceLocator;
+using DG.Tweening;
+using TMPro;
+
+public class DeleteAccountViewModel : Popup
+{
+	[Header("Main")]
+	[SerializeField]
+	private Button _yesButton;
+
+	[SerializeField]
+	private float _deleteTimer;
+
+	[SerializeField]
+	private Image _fillingbar;
+
+	[SerializeField]
+	private TMP_Text _countdownText;
+
+	[SerializeField]
+	private Transform _skull;
+
+	[Header("Colours")]
+	[SerializeField]
+	private Color _barStartColour;
+
+	[SerializeField]
+	private Color _barEndColour;
+
+	private float _currentTime;
+	private float _timeRemaining;
+
+	private Vector3 _skullScale;
+	private Vector3 _skullRotation;
+
+	private UIManager _uiManager;
+	private ProfileService _profileService;
+
+	protected override void Start()
+	{
+		_uiManager = Service<UIManager>.Get();
+		_profileService = Service<ProfileService>.Get();
+	}
+
+	public override void Show()
+	{
+		base.Show();
+		Init();
+	}
+
+	private void Init()
+	{
+		_yesButton.interactable = false;
+
+		_skullScale = _skull.localScale;
+		_skullRotation = _skull.localEulerAngles;
+
+		_countdownText.text = _deleteTimer.ToString();
+		_currentTime = 0;
+		_fillingbar.fillAmount = 0;
+		_fillingbar.color = _barStartColour;
+
+		StartCoroutine(StartTimer());
+	}
+
+	private IEnumerator StartTimer()
+	{
+		while (_currentTime <= _deleteTimer)
+		{
+			_currentTime += Time.deltaTime;
+
+			_timeRemaining = _deleteTimer - _currentTime;
+			_countdownText.text = _timeRemaining.ToString("f0");
+
+			_fillingbar.fillAmount = _currentTime / _deleteTimer;
+			_fillingbar.color = Color.Lerp(_barStartColour, _barEndColour, _currentTime / (_deleteTimer / 2));
+
+			if (_fillingbar.fillAmount >= 0.99f)
+			{
+				_yesButton.interactable = true;
+				_yesButton.GetComponent<Animator>().Play("Enabled");
+				WiggleSkull();
+				break;
+			}
+			yield return null;
+		}
+	}
+
+	// Called when the user presses the yes button
+	public void OnDeleteAccount()
+	{
+		_uiManager.ShowSpinner();
+
+		_profileService.DeleteAccount(_profileService.ClientPlayerInfo.MasterPlayerID,
+		() =>
+		{
+			_uiManager.HideSpinner();
+			Hide();
+			string successMessageTitle = LocalizationManager.GetTranslation("success");
+			string successMessageBody = LocalizationManager.GetTranslation("deleteAccountSuccess-body");
+			_uiManager.ShowConfirmationPopup(successMessageTitle, successMessageBody, null);
+		},
+		playFabErrorCode =>
+		{
+			_uiManager.HideSpinner();
+			string errorMessageTitle = LocalizationManager.GetTranslation("error");
+			string errorMessageBody = LocalizationManager.GetTranslation("deleteAccountError-body");
+			_uiManager.ShowErrorPopup(errorMessageTitle, errorMessageBody + playFabErrorCode);
+		});
+	}
+
+	private void WiggleSkull()
+	{
+		//make sure we reset back if we continuesly tap 
+		DOTween.Kill("skullwiggle", false);
+		_skull.localScale = _skullScale;
+		_skull.localEulerAngles = _skullRotation;
+
+		Sequence mySequence = DOTween.Sequence();
+		mySequence.Append(_skull.transform.DOPunchScale(new Vector3(.4f, .4f), 1f).SetEase(Ease.OutElastic))
+			.Join(_skull.transform.DOPunchRotation(new Vector3(0, 0, 20f), 2f).SetEase(Ease.OutElastic))
+			.SetId("skullwiggle")
+			.OnComplete(() =>
+			{
+				//completed
+			});
+	}
+
+	public override void Hide()
+	{
+		base.Hide();
+		StopCoroutine(StartTimer());
+	}
+}

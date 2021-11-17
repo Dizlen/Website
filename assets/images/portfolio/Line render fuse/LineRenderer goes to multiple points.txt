@@ -1,0 +1,96 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using Tapped.ServiceLocator;
+using DG.Tweening;
+
+public class DailyRewardsLineStreak : MonoBehaviour
+{
+	[SerializeField]
+	private LineRenderer _lineRenderer;
+
+	[SerializeField]
+	private GameObject _fuseParticle;
+
+	[SerializeField]
+	private GameObject _explosionParticle;
+
+	[SerializeField]
+	private float _lineAnimationDuration;
+
+	[SerializeField]
+	private Transform[] _streakPoints;
+
+	private GameObject ref1;
+	private GameObject ref2;
+
+	public void StartLineRenderAnimation(int streakDay)
+	{
+		_lineRenderer.gameObject.SetActive(true);
+		StartCoroutine(StartLineRenderAnimationRoutine(streakDay));
+	}
+
+	private IEnumerator StartLineRenderAnimationRoutine(int streakDay)
+	{
+		float totalDuration = _lineAnimationDuration / _streakPoints.Length;
+		_lineRenderer.SetPosition(0, _streakPoints[0].position);
+
+		GameObject fuse = Instantiate(_fuseParticle, _streakPoints[0].position, Quaternion.identity);
+		ref1 = fuse;
+
+		for (int i = 0; i < streakDay - 1; i++)
+		{
+			float startTime = Time.time;
+
+			Vector3 startPosition = _streakPoints[i].position;
+			Vector3 endPosition = _streakPoints[i + 1].position;
+
+			Vector3 pos = startPosition;
+			while (pos != endPosition)
+			{
+				float t = (Time.time - startTime) / totalDuration;
+				pos = Vector3.Lerp(startPosition, endPosition, t);
+
+				fuse.transform.position = pos;
+
+				// Animate all other points except point at index i
+				for (int j = i + 1; j < _streakPoints.Length; j++)
+					_lineRenderer.SetPosition(j, pos);
+
+				yield return null;
+			}
+		}
+
+		Destroy(fuse.gameObject);
+
+		GameObject explosion = Instantiate(_explosionParticle, _streakPoints[streakDay - 1].position, Quaternion.identity);
+		ref2 = explosion;
+
+		FadeOutLineStreak();
+
+		yield return new WaitForSeconds(1);
+		Destroy(explosion.gameObject);
+	}
+
+	private void FadeOutLineStreak()
+	{
+		_lineRenderer.material.DOFade(0, 0.5f);
+	}
+
+	public void ResetLineRenderer()
+	{
+		_lineRenderer.gameObject.SetActive(false);
+		_lineRenderer.material.DOFade(1, 0);
+
+		if (ref1 != null)
+			Destroy(ref1.gameObject);
+
+		if (ref2 != null)
+			Destroy(ref2.gameObject);
+
+		for (int i = 0; i < _streakPoints.Length; i++)
+		{
+			_lineRenderer.SetPosition(i, Vector3.zero);
+		}
+	}
+}

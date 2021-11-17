@@ -5,9 +5,7 @@ layout: default
 
 For now, this will just be various videos of work I have done until I can sort out an organised page of work.
 
-<hr>
-
-### Unreleased Car Jump Game
+### <center> Unreleased Car Jump Game </center>
 This prototype was a simple game about racing other players by jumping from car to car to reach the end of the level. It took inspiration from another mobile game Aqua Park. I started by learning how to use the plugin Dreamteck Splines. I made some models in Blender and was able to hook them up with the splines.
 
  <video width="600" height="340" autoplay muted loop>
@@ -36,7 +34,7 @@ Your browser does not support the video tag.
 
 <hr>
 
-### Unreleased Construction Game
+### <center> Unreleased Construction Game </center>
 This prototype was supposed to be a relaxing game where the player would view an abstract world and build different pieces of furniture. The gameplay loop changed several times through development, sadly it didn't meet the results we expected so I moved on to another prototype.
 
  <video width="600" height="340" autoplay muted loop>
@@ -54,7 +52,7 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
-### Unreleased Snow Game
+### <center> Unreleased Snow Game </center>
 This prototype was a PvP game (vs AI) where players had to collect the most snow to build their monument. It seemed promising during development, but unfortunately we moved on from the idea. 
 
  <video width="600" height="340" autoplay muted loop>

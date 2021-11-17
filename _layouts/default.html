@@ -5,19 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <style>
-      .container {
-        height: 200px;
-        position: relative;
-        border: 3px solid green;
-      }
-      
-      .vertical-center {
-        margin: 0;
-        position: absolute;
-        top: 50%;
-        -ms-transform: translateY(-50%);
-        transform: translateY(-50%);
-      }
+    .center {
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
     </style>
 
 {% seo %}
@@ -42,10 +37,11 @@
           <hr>
         </div>
 
-        <div class="container">
-          <div class="vertical-center">
-            <a href="index"><button>Home</button></a><a href="portfolio"><button>Portfolio</button></a><a href="www.josephpollard.co.uk"><button>Blog</button></a><a href="www.josephpollard.co.uk"><button>About</button></a>          </div>
+        <div class="center">
+          <a href="index"><button>Home</button></a><a href="portfolio"><button>Portfolio</button></a><a href="www.josephpollard.co.uk"><button>Blog</button></a><a href="www.josephpollard.co.uk"><button>About</button></a>
         </div>
+
+
 
         {{ content }}
       </section>

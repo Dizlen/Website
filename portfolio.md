@@ -5,6 +5,8 @@ layout: default
 
 For now, this will just be various videos of work I have done until I can sort out an organised page of work.
 
+<hr>
+
 ### Unreleased Car Jump Game
 This prototype was a simple game about racing other players by jumping from car to car to reach the end of the level. It took inspiration from another mobile game Aqua Park. I started by learning how to use the plugin Dreamteck Splines. I made some models in Blender and was able to hook them up with the splines.
 
@@ -31,6 +33,8 @@ After some more work and some funny AI, here is the end prototype. Unfortunately
   <source src="assets/images/portfolio/CarGame/Win1.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
+
+<hr>
 
 ### Unreleased Construction Game
 This prototype was supposed to be a relaxing game where the player would view an abstract world and build different pieces of furniture. The gameplay loop changed several times through development, sadly it didn't meet the results we expected so I moved on to another prototype.

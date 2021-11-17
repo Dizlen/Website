@@ -5,6 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <style>
+    .container {
+      height: 30px;
+      position: relative;
+      border: 3px solid rgba(255, 255, 255, 0);
+    }
+
     .center {
       margin: 0;
       position: absolute;
@@ -37,11 +43,11 @@
           <hr>
         </div>
 
-        <div class="center">
-          <a href="index"><button>Home</button></a><a href="portfolio"><button>Portfolio</button></a><a href="www.josephpollard.co.uk"><button>Blog</button></a><a href="www.josephpollard.co.uk"><button>About</button></a>
+        <div class="container">
+          <div class="center">
+            <a href="index"><button>Home</button></a><a href="portfolio"><button>Portfolio</button></a><a href="www.josephpollard.co.uk"><button>Blog</button></a><a href="www.josephpollard.co.uk"><button>About</button></a>
+          </div>
         </div>
-
-
 
         {{ content }}
       </section>

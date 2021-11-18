@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
+<center>
 
 # Welcome
-<center>
 
 Welcome to my very basic website! My name is Joseph Pollard. Please feel free to take a look at my portfolio and blog pages.
 

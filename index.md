@@ -14,5 +14,5 @@ Welcome to my very basic website! My name is Joseph Pollard. Please feel free to
 Also, please enjoy this photo of my cat!
 
 
-<img width="450" height="250" src="assets/images/Bertie6.png">
+<img width="450" height="250" src="assets/images/Bertie6.PNG">
 </center>

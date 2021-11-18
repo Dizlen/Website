@@ -2,9 +2,7 @@
 layout: default
 ---
 
- <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=rf12jZVLdgw">
-</iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rf12jZVLdgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You can view Hoop World on the iOS and Android stores in the links below:
 

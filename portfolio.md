@@ -2,21 +2,33 @@
 layout: default
 ---
 # Welcome to my portfolio!
+Here you'll find links to different projects that I've worked on in the past. 
 
-## Shipped Games
-[Hoop World](hoopworld.md)
 
-## Prototypes
-[Car Jumper](carjumpgame.md)
+## **Voodoo (2022 - Ongoing)**
 
-[Morph Race](morphrace.md)
+- [Favourite Ads](voodoo.md)
 
-[Furniture Game](furnituregame.md)
+&nbsp;
 
-[Snow PvP Game](snowcollectiongame.md)
+## **Tapped (2020 - 2021)**
 
-## University Projects
+### Shipped Games
+- [Hoop World](hoopworld.md)
 
-[Dissertation Project](cult.md)
+### Prototypes
+- [Car Jumper](carjumpgame.md)
 
-[Online Multiplayer Group Project](medabots.md)
+- [Morph Race](morphrace.md)
+
+- [Furniture Game](furnituregame.md)
+
+- [Snow PvP Game](snowcollectiongame.md)
+
+&nbsp;
+
+## **University Projects (2017 - 2020)**
+
+- [Dissertation Project](cult.md)
+
+- [Online Multiplayer Group Project](medabots.md)

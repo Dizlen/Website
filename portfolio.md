@@ -1,34 +1,18 @@
 ---
 layout: default
+title: Portfolio
 ---
-# Welcome to my portfolio!
-Here you'll find links to different projects that I've worked on in the past. 
 
+# Portfolio
 
-## **Voodoo (2022 - Ongoing)**
+## <a href="voodoo" style="color: #00aaff;">Voodoo Ads (2022–Ongoing)</a>
 
-- [Favourite Ads](voodoo.md)
+Short-form video ads produced while working at Voodoo.  
+👉 <strong><a href="voodoo" style="color: #00aaff;">Click here to view the full collection</a></strong>
 
-&nbsp;
+---
 
-## **Tapped (2020 - 2021)**
+## <a href="tapped" style="color: #00aaff;">Tapped (2020–2021)</a>
 
-### Shipped Games
-- [Hoop World](hoopworld.md)
-
-### Prototypes
-- [Car Jumper](carjumpgame.md)
-
-- [Morph Race](morphrace.md)
-
-- [Furniture Game](furnituregame.md)
-
-- [Snow PvP Game](snowcollectiongame.md)
-
-&nbsp;
-
-## **University Projects (2017 - 2020)**
-
-- [Dissertation Project](cult.md)
-
-- [Online Multiplayer Group Project](medabots.md)
+Hypercasual games created at Tapped.  
+👉 <strong><a href="tapped" style="color: #00aaff;">Click here to see the shipped games</a></strong>

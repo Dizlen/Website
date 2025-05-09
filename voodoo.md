@@ -1,19 +1,23 @@
-# My favourite Voodoo ads
-Here are my personal favourite ads that I've created.
-&nbsp;
+---
+layout: default
+title: Voodoo Ads
+---
 
- <video width="600" height="340" autoplay muted loop>
-  <source src="assets/images/portfolio/ConstructionGame/OldDemo.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+# Voodoo Ads
 
- <video width="600" height="340" autoplay muted loop>
-  <source src="assets/images/portfolio/ConstructionGame/5.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+Here’s a collection of short-form video ads I created while working at Voodoo.
 
- <video width="600" height="340" autoplay muted loop>
-  <source src="assets/images/portfolio/ConstructionGame/8.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-&nbsp;
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <iframe width="220" height="390" src="https://www.youtube.com/embed/o4FMMymeing" frameborder="0" allowfullscreen></iframe>
+  <iframe width="220" height="390" src="https://www.youtube.com/embed/Zm0tsDtz6ug" frameborder="0" allowfullscreen></iframe>
+  <iframe width="220" height="390" src="https://www.youtube.com/embed/EbkiOjXr7K4" frameborder="0" allowfullscreen></iframe>
+  <iframe width="220" height="390" src="https://www.youtube.com/embed/zrFeSp6JNWI" frameborder="0" allowfullscreen></iframe>
+
+  <iframe width="220" height="390" src="https://www.youtube.com/embed/o0RsmriQ9o4" frameborder="0" allowfullscreen></iframe>
+  <iframe width="220" height="390" src="https://www.youtube.com/embed/mK-sFWuZA_g" frameborder="0" allowfullscreen></iframe>
+  <iframe width="220" height="390" src="https://www.youtube.com/embed/reIDbZfuqGY" frameborder="0" allowfullscreen></iframe>
+  <iframe width="220" height="390" src="https://www.youtube.com/embed/piEj5y3y-g4" frameborder="0" allowfullscreen></iframe>
+  <iframe width="220" height="390" src="https://www.youtube.com/embed/xYOC6JpClUs" frameborder="0" allowfullscreen></iframe>
+  <iframe width="220" height="390" src="https://www.youtube.com/embed/O0_9Mhgt1j0" frameborder="0" allowfullscreen></iframe>
+
+</div>

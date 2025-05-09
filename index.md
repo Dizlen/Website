@@ -1,21 +1,23 @@
 ---
 layout: default
+title: Joseph Pollard
 ---
 
-# Welcome
+# Hi, I'm Joseph.
 
-Hey, welcome to my website! My name is Joseph Pollard, I'm 25 years old and currently live in Paris. Currently working with Voodoo creating advertisments for all of their games. Feel free to take a look at my portfolio and blog pages!
-
-<p>&nbsp;</p>
+I'm a creative based in Paris, currently working with **Voodoo** producing advertisements for their games.  
+Welcome to my website — feel free to explore my [portfolio](./portfolio).
 
 <p align="center">
-<img width="250" height="250" src="assets/images/me!.jpg">
+  <img src="assets/images/me!.jpg" alt="Photo of Joseph" width="220" height="220">
 </p>
 
-<p>&nbsp;</p>
-<p align="center">
-Also, please enjoy this photo of my cat!
+---
 
-<p>&nbsp;</p>
 <p align="center">
-<img width="450" height="250" src="assets/images/Bertie6.PNG">
+  <em>Also, here's my cat. You're welcome.</em>
+</p>
+
+<p align="center">
+  <img src="assets/images/Bertie6.PNG" alt="Joseph's Cat" width="450" height="250">
+</p>

@@ -2,3 +2,17 @@
 ---
 
 @import "jekyll-theme-midnight";
+
+
+/* Custom video grid layout */
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  justify-items: center;
+  margin-top: 1.5rem;
+}
+.video-grid iframe {
+  width: 220px;
+  height: 390px;
+}

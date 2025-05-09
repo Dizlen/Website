@@ -12,12 +12,11 @@ Welcome to my website — feel free to explore my [portfolio](./portfolio).
   <img src="assets/images/me!.jpg" alt="Photo of Joseph" width="220" height="220">
 </p>
 
----
-
-<p align="center">
-  <em>Also, here's my cat. You're welcome.</em>
-</p>
-
 <p align="center">
   <img src="assets/images/Bertie6.PNG" alt="Joseph's Cat" width="450" height="250">
 </p>
+
+---
+
+
+

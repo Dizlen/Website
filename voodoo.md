@@ -5,37 +5,14 @@ title: Voodoo Ads
 
 # Voodoo Ads
 
-Here’s a selection of short-form video ads I created while working at Voodoo, grouped by game project.
-
-
-## Archery Clash
-
-_A brief description of Archery Clash._
-
-<div class="video-thumb-grid-wrapper">
-  <div class="video-thumb-grid">
-    <a href="https://youtube.com/watch?v=Zm0tsDtz6ug" target="_blank">
-      <img src="https://img.youtube.com/vi/Zm0tsDtz6ug/hqdefault.jpg" class="video-thumb" alt="Archery Clash video">
-    </a>
-    <a href="https://youtube.com/watch?v=EbkiOjXr7K4" target="_blank">
-      <img src="https://img.youtube.com/vi/EbkiOjXr7K4/hqdefault.jpg" class="video-thumb" alt="Archery Clash video">
-    </a>
-    <a href="https://youtube.com/watch?v=xYOC6JpClUs" target="_blank">
-      <img src="https://img.youtube.com/vi/xYOC6JpClUs/hqdefault.jpg" class="video-thumb" alt="Archery Clash video">
-    </a>
-    <a href="https://youtube.com/watch?v=piEj5y3y-g4" target="_blank">
-      <img src="https://img.youtube.com/vi/piEj5y3y-g4/hqdefault.jpg" class="video-thumb" alt="Archery Clash video">
-    </a>
-    <a href="https://youtube.com/watch?v=zrFeSp6JNWI" target="_blank">
-      <img src="https://img.youtube.com/vi/zrFeSp6JNWI/hqdefault.jpg" class="video-thumb" alt="Archery Clash video">
-    </a>
-  </div>
-</div>
-
-
+At Voodoo I work as a Marketing Developer. Using the Unity Engine and After Effects, I create short advertisments for their games.
+For each advert I'm given between 1-2 working days to finish it.
+Here are a handful of my favourite ones that I've worked on. You can see more if you browse my Youtube channel!
+ 
 ## Block Jam
-
-_A brief description of Block Jam._
+Block Jam is a classic match-3 puzzle game, it's one of Voodoos biggest titles.
+I’m often tasked with creating new gameplay scenarios and cinematics.
+It's one of the few games that has very nice character models, so I'm able to create unique story telling moments with them.
 
 <div class="video-thumb-grid-wrapper">
   <div class="video-thumb-grid">
@@ -78,70 +55,10 @@ _A brief description of Block Jam._
   </div>
 </div>
 
-
-## Bubble Tower
-
-_A brief description of Bubble Tower._
-
-<div class="video-thumb-grid-wrapper">
-  <div class="video-thumb-grid">
-    <a href="https://youtube.com/watch?v=0GMXrDXJMKw" target="_blank">
-      <img src="https://img.youtube.com/vi/0GMXrDXJMKw/hqdefault.jpg" class="video-thumb" alt="Bubble Tower video">
-    </a>
-  </div>
-</div>
-
-
-## Bucket Crusher
-
-_A brief description of Bucket Crusher._
-
-<div class="video-thumb-grid-wrapper">
-  <div class="video-thumb-grid">
-    <a href="https://youtube.com/watch?v=rPjSeC8Z7w0" target="_blank">
-      <img src="https://img.youtube.com/vi/rPjSeC8Z7w0/hqdefault.jpg" class="video-thumb" alt="Bucket Crusher video">
-    </a>
-    <a href="https://youtube.com/watch?v=o4IwnS6iKcA" target="_blank">
-      <img src="https://img.youtube.com/vi/o4IwnS6iKcA/hqdefault.jpg" class="video-thumb" alt="Bucket Crusher video">
-    </a>
-    <a href="https://youtube.com/watch?v=1G8OWEVlCZ4" target="_blank">
-      <img src="https://img.youtube.com/vi/1G8OWEVlCZ4/hqdefault.jpg" class="video-thumb" alt="Bucket Crusher video">
-    </a>
-  </div>
-</div>
-
-
-## Coffee Pack
-
-_A brief description of Coffee Pack._
-
-<div class="video-thumb-grid-wrapper">
-  <div class="video-thumb-grid">
-    <a href="https://youtube.com/watch?v=sU2seqD10wA" target="_blank">
-      <img src="https://img.youtube.com/vi/sU2seqD10wA/hqdefault.jpg" class="video-thumb" alt="Coffee Pack video">
-    </a>
-    <a href="https://youtube.com/watch?v=e42dCCgk8Aw" target="_blank">
-      <img src="https://img.youtube.com/vi/e42dCCgk8Aw/hqdefault.jpg" class="video-thumb" alt="Coffee Pack video">
-    </a>
-    <a href="https://youtube.com/watch?v=7Z_4l8J2F0Y" target="_blank">
-      <img src="https://img.youtube.com/vi/7Z_4l8J2F0Y/hqdefault.jpg" class="video-thumb" alt="Coffee Pack video">
-    </a>
-    <a href="https://youtube.com/watch?v=60Du_mQejIY" target="_blank">
-      <img src="https://img.youtube.com/vi/60Du_mQejIY/hqdefault.jpg" class="video-thumb" alt="Coffee Pack video">
-    </a>
-    <a href="https://youtube.com/watch?v=K30KzRGLPeg" target="_blank">
-      <img src="https://img.youtube.com/vi/K30KzRGLPeg/hqdefault.jpg" class="video-thumb" alt="Coffee Pack video">
-    </a>
-    <a href="https://youtube.com/watch?v=LqoBjyp4oGw" target="_blank">
-      <img src="https://img.youtube.com/vi/LqoBjyp4oGw/hqdefault.jpg" class="video-thumb" alt="Coffee Pack video">
-    </a>
-  </div>
-</div>
-
-
 ## Collect Em All
 
-_A brief description of Collect Em All._
+One of Voodoos old flagship games that was unfortunately retired in 2024.
+I worked on a lot of "minigames" for this which really challenged my dev skills.
 
 <div class="video-thumb-grid-wrapper">
   <div class="video-thumb-grid">
@@ -172,62 +89,38 @@ _A brief description of Collect Em All._
   </div>
 </div>
 
+## Coffee Pack
 
-## Crazy Kick
-
-_A brief description of Crazy Kick._
-
-<div class="video-thumb-grid-wrapper">
-  <div class="video-thumb-grid">
-    <a href="https://youtube.com/watch?v=EkCwwgIJLvs" target="_blank">
-      <img src="https://img.youtube.com/vi/EkCwwgIJLvs/hqdefault.jpg" class="video-thumb" alt="Crazy Kick video">
-    </a>
-  </div>
-</div>
-
-
-## Goo Fighter
-
-_A brief description of Goo Fighter._
+Sort and stack drink orders in a bustling café environment.
+Coffee Pack has been an interesting puzzle game to work on. It's not my favourite, but I came up with some pretty fun scenarios to catch users attention!
 
 <div class="video-thumb-grid-wrapper">
   <div class="video-thumb-grid">
-    <a href="https://youtube.com/watch?v=O0_9Mhgt1j0" target="_blank">
-      <img src="https://img.youtube.com/vi/O0_9Mhgt1j0/hqdefault.jpg" class="video-thumb" alt="Goo Fighter video">
+    <a href="https://youtube.com/watch?v=sU2seqD10wA" target="_blank">
+      <img src="https://img.youtube.com/vi/sU2seqD10wA/hqdefault.jpg" class="video-thumb" alt="Coffee Pack video">
+    </a>
+    <a href="https://youtube.com/watch?v=e42dCCgk8Aw" target="_blank">
+      <img src="https://img.youtube.com/vi/e42dCCgk8Aw/hqdefault.jpg" class="video-thumb" alt="Coffee Pack video">
+    </a>
+    <a href="https://youtube.com/watch?v=7Z_4l8J2F0Y" target="_blank">
+      <img src="https://img.youtube.com/vi/7Z_4l8J2F0Y/hqdefault.jpg" class="video-thumb" alt="Coffee Pack video">
+    </a>
+    <a href="https://youtube.com/watch?v=60Du_mQejIY" target="_blank">
+      <img src="https://img.youtube.com/vi/60Du_mQejIY/hqdefault.jpg" class="video-thumb" alt="Coffee Pack video">
+    </a>
+    <a href="https://youtube.com/watch?v=K30KzRGLPeg" target="_blank">
+      <img src="https://img.youtube.com/vi/K30KzRGLPeg/hqdefault.jpg" class="video-thumb" alt="Coffee Pack video">
+    </a>
+    <a href="https://youtube.com/watch?v=LqoBjyp4oGw" target="_blank">
+      <img src="https://img.youtube.com/vi/LqoBjyp4oGw/hqdefault.jpg" class="video-thumb" alt="Coffee Pack video">
     </a>
   </div>
 </div>
-
-
-## Hole IO
-
-_A brief description of Hole IO._
-
-<div class="video-thumb-grid-wrapper">
-  <div class="video-thumb-grid">
-    <a href="https://youtube.com/watch?v=fmEvQbC5E9I" target="_blank">
-      <img src="https://img.youtube.com/vi/fmEvQbC5E9I/hqdefault.jpg" class="video-thumb" alt="Hole IO video">
-    </a>
-  </div>
-</div>
-
-
-## Infantry Attack
-
-_A brief description of Infantry Attack._
-
-<div class="video-thumb-grid-wrapper">
-  <div class="video-thumb-grid">
-    <a href="https://youtube.com/watch?v=8nlj39hQblU" target="_blank">
-      <img src="https://img.youtube.com/vi/8nlj39hQblU/hqdefault.jpg" class="video-thumb" alt="Infantry Attack video">
-    </a>
-  </div>
-</div>
-
 
 ## Mob Control
 
-_A brief description of Mob Control._
+Mob Control has the player control a cannon to fight other mobs.
+With broad visual appeal and scalable gameplay, it became one of Voodoo’s flagship games, showing consistent top-chart rankings and long-term monetization success.
 
 <div class="video-thumb-grid-wrapper">
   <div class="video-thumb-grid">
@@ -240,29 +133,73 @@ _A brief description of Mob Control._
     <a href="https://youtube.com/watch?v=BgLdA5bIYzU" target="_blank">
       <img src="https://img.youtube.com/vi/BgLdA5bIYzU/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
     </a>
-  </div>
-</div>
-
-
-## Paper IO 2
-
-_A brief description of Paper IO 2._
-
-<div class="video-thumb-grid-wrapper">
-  <div class="video-thumb-grid">
-    <a href="https://youtube.com/watch?v=LZA6_oBdSaQ" target="_blank">
-      <img src="https://img.youtube.com/vi/LZA6_oBdSaQ/hqdefault.jpg" class="video-thumb" alt="Paper IO 2 video">
+    <a href="https://youtube.com/watch?v=BgLdA5bIYzU" target="_blank">
+      <img src="https://img.youtube.com/vi/arkJirp06fo/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
+    </a>
+    <a href="https://youtube.com/watch?v=BgLdA5bIYzU" target="_blank">
+      <img src="https://img.youtube.com/vi/WHHhoOZLTHE/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
     </a>
   </div>
 </div>
 
+## Archery Clash
 
-## UBOAT Attack
-
-_A brief description of UBOAT Attack._
+Aim, release, and hit your target in fast-paced archery duels!
+This game was really fun to work on, there's plenty of room for unique story telling in here.
 
 <div class="video-thumb-grid-wrapper">
   <div class="video-thumb-grid">
+    <a href="https://youtube.com/watch?v=Zm0tsDtz6ug" target="_blank">
+      <img src="https://img.youtube.com/vi/Zm0tsDtz6ug/hqdefault.jpg" class="video-thumb" alt="Archery Clash video">
+    </a>
+    <a href="https://youtube.com/watch?v=EbkiOjXr7K4" target="_blank">
+      <img src="https://img.youtube.com/vi/EbkiOjXr7K4/hqdefault.jpg" class="video-thumb" alt="Archery Clash video">
+    </a>
+    <a href="https://youtube.com/watch?v=xYOC6JpClUs" target="_blank">
+      <img src="https://img.youtube.com/vi/xYOC6JpClUs/hqdefault.jpg" class="video-thumb" alt="Archery Clash video">
+    </a>
+    <a href="https://youtube.com/watch?v=piEj5y3y-g4" target="_blank">
+      <img src="https://img.youtube.com/vi/piEj5y3y-g4/hqdefault.jpg" class="video-thumb" alt="Archery Clash video">
+    </a>
+    <a href="https://youtube.com/watch?v=zrFeSp6JNWI" target="_blank">
+      <img src="https://img.youtube.com/vi/zrFeSp6JNWI/hqdefault.jpg" class="video-thumb" alt="Archery Clash video">
+    </a>
+  </div>
+</div>
+
+## Other games
+
+And here are some other ads from various different games.
+
+<div class="video-thumb-grid-wrapper">
+  <div class="video-thumb-grid">
+    <a href="https://youtube.com/watch?v=0GMXrDXJMKw" target="_blank">
+      <img src="https://img.youtube.com/vi/0GMXrDXJMKw/hqdefault.jpg" class="video-thumb" alt="Bubble Tower video">
+    </a>
+    <a href="https://youtube.com/watch?v=rPjSeC8Z7w0" target="_blank">
+      <img src="https://img.youtube.com/vi/rPjSeC8Z7w0/hqdefault.jpg" class="video-thumb" alt="Bucket Crusher video">
+    </a>
+    <a href="https://youtube.com/watch?v=o4IwnS6iKcA" target="_blank">
+      <img src="https://img.youtube.com/vi/o4IwnS6iKcA/hqdefault.jpg" class="video-thumb" alt="Bucket Crusher video">
+    </a>
+    <a href="https://youtube.com/watch?v=1G8OWEVlCZ4" target="_blank">
+      <img src="https://img.youtube.com/vi/1G8OWEVlCZ4/hqdefault.jpg" class="video-thumb" alt="Bucket Crusher video">
+    </a>
+    <a href="https://youtube.com/watch?v=EkCwwgIJLvs" target="_blank">
+      <img src="https://img.youtube.com/vi/EkCwwgIJLvs/hqdefault.jpg" class="video-thumb" alt="Crazy Kick video">
+    </a>
+    <a href="https://youtube.com/watch?v=O0_9Mhgt1j0" target="_blank">
+      <img src="https://img.youtube.com/vi/O0_9Mhgt1j0/hqdefault.jpg" class="video-thumb" alt="Goo Fighter video">
+    </a>
+    <a href="https://youtube.com/watch?v=fmEvQbC5E9I" target="_blank">
+      <img src="https://img.youtube.com/vi/fmEvQbC5E9I/hqdefault.jpg" class="video-thumb" alt="Hole IO video">
+    </a>
+    <a href="https://youtube.com/watch?v=8nlj39hQblU" target="_blank">
+      <img src="https://img.youtube.com/vi/8nlj39hQblU/hqdefault.jpg" class="video-thumb" alt="Infantry Attack video">
+    </a>
+    <a href="https://youtube.com/watch?v=LZA6_oBdSaQ" target="_blank">
+      <img src="https://img.youtube.com/vi/LZA6_oBdSaQ/hqdefault.jpg" class="video-thumb" alt="Paper IO 2 video">
+    </a>
     <a href="https://youtube.com/watch?v=gxnGREnI9gw" target="_blank">
       <img src="https://img.youtube.com/vi/gxnGREnI9gw/hqdefault.jpg" class="video-thumb" alt="UBOAT Attack video">
     </a>

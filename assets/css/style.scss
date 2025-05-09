@@ -1,20 +1,20 @@
 
-.video-grid-three-plus-two {
+.video-thumb-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 16px 24px;
-  justify-items: center;
-  margin-bottom: 3rem;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 16px;
+  margin-bottom: 2rem;
 }
 
-.video-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
+.video-thumb {
+  width: 100%;
+  aspect-ratio: 9 / 16;
+  object-fit: cover;
+  border-radius: 6px;
+  box-shadow: 0 0 4px rgba(0,0,0,0.2);
+  transition: transform 0.2s;
 }
 
-.video-item iframe {
-  width: 200px;
-  height: 350px;
+.video-thumb:hover {
+  transform: scale(1.03);
 }

@@ -1,53 +1,10 @@
----
----
 
-@import "jekyll-theme-midnight";
-
-
-/* Custom video grid layout */
-.video-grid {
+.video-grid-three-plus-two {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 16px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px 24px;
   justify-items: center;
-  margin-top: 1.5rem;
-}
-.video-grid iframe {
-  width: 220px;
-  height: 390px;
-}
-
-
-/* Enhanced responsive video grid with enforced min column count */
-.video-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 24px;
-  justify-items: center;
-}
-
-@media (min-width: 768px) {
-  .video-grid {
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  }
-}
-
-@media (min-width: 960px) {
-  .video-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-
-@media (min-width: 1280px) {
-  .video-grid {
-    grid-template-columns: repeat(4, 1fr);
-  }
-}
-
-@media (min-width: 1600px) {
-  .video-grid {
-    grid-template-columns: repeat(5, 1fr);
-  }
+  margin-bottom: 3rem;
 }
 
 .video-item {
@@ -58,6 +15,6 @@
 }
 
 .video-item iframe {
-  width: 220px;
-  height: 390px;
+  width: 200px;
+  height: 350px;
 }

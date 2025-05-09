@@ -1,34 +1,31 @@
 ---
 layout: default
+title: Portfolio
 ---
-# Welcome to my portfolio!
-Here you'll find links to different projects that I've worked on in the past. 
 
+# Portfolio
 
-## **Voodoo (2022 - Ongoing)**
+## **Voodoo Ads (2022–Ongoing)**
 
-- [Favourite Ads](voodoo.md)
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <iframe width="300" height="530" src="https://www.youtube.com/embed/o4FMMymeing" frameborder="0" allowfullscreen></iframe>
+  <iframe width="300" height="530" src="https://www.youtube.com/embed/Zm0tsDtz6ug" frameborder="0" allowfullscreen></iframe>
+  <iframe width="300" height="530" src="https://www.youtube.com/embed/EbkiOjXr7K4" frameborder="0" allowfullscreen></iframe>
+  <iframe width="300" height="530" src="https://www.youtube.com/embed/zrFeSp6JNWI" frameborder="0" allowfullscreen></iframe>
+</div>
 
-&nbsp;
+---
 
-## **Tapped (2020 - 2021)**
+## **Tapped (2020–2021)**
 
-### Shipped Games
-- [Hoop World](hoopworld.md)
+**Shipped Games**
 
-### Prototypes
-- [Car Jumper](carjumpgame.md)
+- **Hoop World**  
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <iframe width="300" height="530" src="https://www.youtube.com/embed/ZTKZfZE-agc" frameborder="0" allowfullscreen></iframe>
+  </div>
 
-- [Morph Race](morphrace.md)
-
-- [Furniture Game](furnituregame.md)
-
-- [Snow PvP Game](snowcollectiongame.md)
-
-&nbsp;
-
-## **University Projects (2017 - 2020)**
-
-- [Dissertation Project](cult.md)
-
-- [Online Multiplayer Group Project](medabots.md)
+- **Scribble Rider**  
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <iframe width="300" height="530" src="https://www.youtube.com/embed/Qba_qkCFJcI" frameborder="0" allowfullscreen></iframe>
+  </div>

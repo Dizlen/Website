@@ -2,6 +2,7 @@
 layout: default
 title: Tapped
 ---
+
 # Tapped 2020–2021
 
 I joined Tapped as a Junior Unity Developer — my first role in the games industry — and it remains one of my favorite experiences to date. I began by contributing to Scribble Rider, where I focused on bug fixes, level design support, and adding small gameplay features.
@@ -26,7 +27,7 @@ Later on, I worked on several prototypes launched on the Play Store. While none 
     </a>
   </div>
   <div class="game-video">
-    <iframe src="https://www.youtube.com/watch?v=ldpadKCuEEw" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/ZTKZfZE-agc" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -44,6 +45,6 @@ Later on, I worked on several prototypes launched on the Play Store. While none 
     </a>
   </div>
   <div class="game-video">
-    <iframe src="https://https://www.youtube.com/watch?v=dDFFWSHeP8U&t=3s" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/Qba_qkCFJcI" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>

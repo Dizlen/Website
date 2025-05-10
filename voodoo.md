@@ -166,7 +166,7 @@ This game was really fun to work on, there's plenty of room for unique story tel
 
 ## Other games
 
-And here are some other random ads from various different games that I liked!
+And here are some other random ads that I enjoyed making!
 
 <div class="video-thumb-grid-wrapper">
   <div class="video-thumb-grid">

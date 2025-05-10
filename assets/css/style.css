@@ -48,18 +48,18 @@
 .bertie-gallery img:hover {
   transform: scale(1.02);
 }
-/* Portfolio Section Logos */
-.section-header {
+
+.video-grid {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
-  margin-top: 2rem;
-  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 1rem;
+  justify-content: center;
 }
 
-.section-header img.section-logo {
-  height: 40px;
-  max-width: 120px;
-  object-fit: contain;
+.video-grid iframe {
+  width: 220px;
+  height: 390px;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
 }

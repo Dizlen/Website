@@ -12,9 +12,19 @@ To date, I’ve worked on over 1,000 ads. Not all of them are hits, but each one
 I primarily use Unity, After Effects, and Blender, and I typically have 1–2 working days to complete each ad from concept to final render.
 
 👉 <strong><a href="voodoo" style="color: #00aaff;">Click here for more info and to see some of my work!</a></strong>
+
 ---
 
 ## <a href="tapped" style="color: #f7c31f;">Tapped (2020–2021)</a>
 
-Hypercasual games created at Tapped.  
+Worked on several mobile game projects using C# and the Unity Engine.
+
+• Shipped iOS and Android title Hoop World.
+
+• Added new content and fixed bugs for existing title Scribble Rider and blueprint project.
+
+• Developed various hyper-casual mobile game prototypes. Implementing various SDK's to track player performance (Voodoo Tiny Sauce, GameAnalytics, MixPanel). 
+
+• Setup and maintained a Jenkins server (CI) to deploy iOS and Android builds to quickly test new features on device.
+
 👉 <strong><a href="tapped" style="color: #00aaff;">Click here to see the shipped games</a></strong>

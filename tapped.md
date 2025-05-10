@@ -12,6 +12,8 @@ I also developed an automated Jenkins build pipeline with Slack integration. Thi
 
 Later on, I worked on several prototypes launched on the Play Store. While none of them took off, they provided valuable experience in rapid development and iteration. My final project at Tapped was Hoop World, which became a breakout success. I focused on building custom Unity tools to streamline the level design workflow and support the live game’s evolving content.
 
+---
+
 ## Hoop World
 
 <img src="assets/images/hoop-world-logo.png" alt="Hoop World Logo" style="height: 60px; margin-bottom: 1rem;">
@@ -23,6 +25,10 @@ Hoop World is an addictive basketball game where players perform flips and slam 
 <a href="https://apps.apple.com/us/app/hoop-world-3d/id1582468475?l=en-GB" target="_blank">
   <img src="assets/images/app-store-badge.png" alt="Download on the App Store" style="height: 40px; margin-top: 0.5rem;">
 </a>
+
+<div class="video-grid" style="margin-top: 1rem;">
+  <iframe width="220" height="390" src="https://www.youtube.com/watch?v=ldpadKCuEEw" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ---
 
@@ -39,9 +45,7 @@ Scribble Rider is a hyper-casual mobile game that combines drawing and racing me
   <img src="assets/images/app-store-badge.png" alt="Download on the App Store" style="height: 40px; margin-top: 0.5rem;">
 </a>
 
----
-
-<div class="video-grid">
-  <iframe width="220" height="390" src="https://www.youtube.com/embed/ZTKZfZE-agc" frameborder="0" allowfullscreen></iframe>
-  <iframe width="220" height="390" src="https://www.youtube.com/embed/Qba_qkCFJcI" frameborder="0" allowfullscreen></iframe>
+<div class="video-grid" style="margin-top: 1rem;">
+  <iframe width="220" height="390" src="https://www.youtube.com/shorts/6NN3EQ_eCco" frameborder="0" allowfullscreen></iframe>
 </div>
+

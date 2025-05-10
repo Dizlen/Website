@@ -16,36 +16,34 @@ Later on, I worked on several prototypes launched on the Play Store. While none 
 
 ## Hoop World
 
-<img src="assets/images/hoop-world-logo.png" alt="Hoop World Logo" style="height: 60px; margin-bottom: 1rem;">
-
-**10+ Million Downloads**
-
-Hoop World is an addictive basketball game where players perform flips and slam dunks through dynamic levels filled with portals and obstacles. Its simple controls and vibrant graphics contributed to over 10 million downloads globally.
-
-<a href="https://apps.apple.com/us/app/hoop-world-3d/id1582468475?l=en-GB" target="_blank">
-  <img src="assets/images/app-store-badge.png" alt="Download on the App Store" style="height: 40px; margin-top: 0.5rem;">
-</a>
-
-<div class="video-grid" style="margin-top: 1rem;">
-  <iframe width="220" height="390" src="https://www.youtube.com/watch?v=ldpadKCuEEw" frameborder="0" allowfullscreen></iframe>
+<div class="game-section">
+  <div class="game-info">
+    <img src="assets/images/hoop-world-logo.png" alt="Hoop World Logo" class="game-icon">
+    <p><strong>10+ Million Downloads</strong></p>
+    <p>Hoop World is an addictive basketball game where players perform flips and slam dunks through dynamic levels filled with portals and obstacles. Its simple controls and vibrant graphics contributed to over 10 million downloads globally.</p>
+    <a href="https://apps.apple.com/us/app/hoop-world-3d/id1582468475?l=en-GB" target="_blank">
+      <img src="assets/images/app-store-badge.png" alt="Download on the App Store" class="app-store-badge">
+    </a>
+  </div>
+  <div class="game-video">
+    <iframe src="https://www.youtube.com/embed/ZTKZfZE-agc" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
 
 ---
 
 ## Scribble Rider
 
-<img src="assets/images/scribble-logo.png" alt="Scribble Rider Logo" style="height: 60px; margin-bottom: 1rem;">
-
-**120+ Million Downloads**  
-**#1 Game in 25 Countries**
-
-Scribble Rider is a hyper-casual mobile game that combines drawing and racing mechanics. Players draw their own vehicle wheels to navigate various terrains and obstacles. The game's unique concept and engaging gameplay led it to top the charts in multiple countries, amassing over 120 million downloads worldwide.
-
-<a href="https://apps.apple.com/us/app/scribble-rider/id1518267642" target="_blank">
-  <img src="assets/images/app-store-badge.png" alt="Download on the App Store" style="height: 40px; margin-top: 0.5rem;">
-</a>
-
-<div class="video-grid" style="margin-top: 1rem;">
-  <iframe width="220" height="390" src="https://www.youtube.com/shorts/6NN3EQ_eCco" frameborder="0" allowfullscreen></iframe>
+<div class="game-section">
+  <div class="game-info">
+    <img src="assets/images/scribble-logo.png" alt="Scribble Rider Logo" class="game-icon">
+    <p><strong>120+ Million Downloads</strong><br><strong>#1 Game in 25 Countries</strong></p>
+    <p>Scribble Rider is a hyper-casual mobile game that combines drawing and racing mechanics. Players draw their own vehicle wheels to navigate various terrains and obstacles. The game's unique concept and engaging gameplay led it to top the charts in multiple countries, amassing over 120 million downloads worldwide.</p>
+    <a href="https://apps.apple.com/us/app/scribble-rider/id1518267642" target="_blank">
+      <img src="assets/images/app-store-badge.png" alt="Download on the App Store" class="app-store-badge">
+    </a>
+  </div>
+  <div class="game-video">
+    <iframe src="https://www.youtube.com/embed/Qba_qkCFJcI" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
-

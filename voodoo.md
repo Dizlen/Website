@@ -4,15 +4,12 @@ title: Voodoo Ads
 ---
 
 # Voodoo Ads
-
-At Voodoo I work as a Marketing Developer. Using the Unity Engine and After Effects, I create short advertisments for their games.
-For each advert I'm given between 1-2 working days to finish it.
-Here are a handful of my favourite ones that I've worked on. You can see more if you browse my Youtube channel!
+Here you'll find a collection of my favourite ads! I'm sure I've missed some.. but I found these ones and thought they were pretty cool to show off.
  
 ## Block Jam
 Block Jam is a classic match-3 puzzle game, it's one of Voodoos biggest titles.
-I’m often tasked with creating new gameplay scenarios and cinematics.
-It's one of the few games that has very nice character models, so I'm able to create unique story telling moments with them.
+I’m often asked to create new gameplay scenarios and cinematics.
+It's one of the few games that has very nice character models, so I'm able to create fun and unique story telling moments with them.
 
 <div class="video-thumb-grid-wrapper">
   <div class="video-thumb-grid">
@@ -58,7 +55,7 @@ It's one of the few games that has very nice character models, so I'm able to cr
 ## Collect Em All
 
 One of Voodoos old flagship games that was unfortunately retired in 2024.
-I worked on a lot of "minigames" for this which really challenged my dev skills.
+I've worked on a lot of "minigames" for this which really challenged my dev skills!
 
 <div class="video-thumb-grid-wrapper">
   <div class="video-thumb-grid">
@@ -91,8 +88,8 @@ I worked on a lot of "minigames" for this which really challenged my dev skills.
 
 ## Coffee Pack
 
-Sort and stack drink orders in a bustling café environment.
-Coffee Pack has been an interesting puzzle game to work on. It's not my favourite, but I came up with some pretty fun scenarios to catch users attention!
+Coffee Pack has been an interesting puzzle game to work on.
+It's not my favourite, but I came up with some pretty fun scenarios to catch users attention!
 
 <div class="video-thumb-grid-wrapper">
   <div class="video-thumb-grid">
@@ -119,8 +116,8 @@ Coffee Pack has been an interesting puzzle game to work on. It's not my favourit
 
 ## Mob Control
 
-Mob Control has the player control a cannon to fight other mobs.
-With broad visual appeal and scalable gameplay, it became one of Voodoo’s flagship games, showing consistent top-chart rankings and long-term monetization success.
+Mob Control is one of Voodoos big hits!
+There's lots of room for creativity in this game.
 
 <div class="video-thumb-grid-wrapper">
   <div class="video-thumb-grid">
@@ -169,7 +166,7 @@ This game was really fun to work on, there's plenty of room for unique story tel
 
 ## Other games
 
-And here are some other ads from various different games.
+And here are some other random ads from various different games that I liked!
 
 <div class="video-thumb-grid-wrapper">
   <div class="video-thumb-grid">

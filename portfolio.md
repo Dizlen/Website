@@ -11,12 +11,10 @@ To date, I’ve worked on over 1,000 ads. Not all of them are hits, but each one
 
 I primarily use Unity, After Effects, and Blender, and I typically have 1–2 working days to complete each ad from concept to final render.
 
-Below is a selection of my favorite projects — you can find more on my Youtube channel
- 
 👉 <strong><a href="voodoo" style="color: #00aaff;">Click here to view a some of my favourite ads!</a></strong>
 
 <div style="margin-top: 2rem;">
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7122487121264693248" height="729" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7122487121264693248" height="512" width="512" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </div>
 
 ---

@@ -1,3 +1,4 @@
+
 /* Portfolio Page: Video Thumbnail Grid */
 .video-thumb-grid-wrapper {
   max-width: 1000px;
@@ -49,47 +50,9 @@
   transform: scale(1.02);
 }
 
-.video-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 16px;
-  margin-top: 1rem;
-  justify-content: center;
-}
 
-.video-grid iframe {
-  width: 220px;
-  height: 390px;
-  border-radius: 8px;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
-}
-
-/* Structured Game Layout with Video */
-.game-section {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  gap: 24px;
-  margin-bottom: 3rem;
-}
-
-.game-info {
-  flex: 1 1 300px;
-  max-width: 500px;
-}
-
-.game-video iframe {
-  width: 220px;
-  height: 390px;
-  border-radius: 8px;
-}
-
-.game-icon {
-  height: 50px;
-  margin-bottom: 1rem;
-}
-
-.app-store-badge {
+.section-logo {
   height: 40px;
-  margin-top: 0.5rem;
+  max-width: 120px;
+  object-fit: contain;
 }

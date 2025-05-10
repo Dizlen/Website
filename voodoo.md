@@ -1,11 +1,16 @@
 ---
 layout: default
-title: Voodoo Ads
+title: Voodoo
 ---
 
 # Voodoo Ads
 Here you'll find a collection of my favourite ads! I'm sure I've missed some.. but I found these ones and thought they were pretty cool to show off.
- 
+
+I also won this award for having the best ads at the time.
+<div style="margin-top: 2rem;">
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7122487121264693248" height="729" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+</div>
+
 ## Block Jam
 Block Jam is a classic match-3 puzzle game, it's one of Voodoos biggest titles.
 I’m often asked to create new gameplay scenarios and cinematics.

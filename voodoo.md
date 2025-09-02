@@ -68,6 +68,9 @@ There's lots of room for creativity in this game.
     <a href="https://www.youtube.com/shorts/fAgojMiJugE" target="_blank">
       <img src="https://img.youtube.com/vi/fAgojMiJugE/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
     </a>
+    <a href="https://www.youtube.com/shorts/3Og2SPvXHJM" target="_blank">
+      <img src="https://img.youtube.com/vi/3Og2SPvXHJM/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
+    </a>
     <a href="https://youtube.com/watch?v=jxYsk1Ugtdw" target="_blank">
       <img src="https://img.youtube.com/vi/jxYsk1Ugtdw/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
     </a>
@@ -79,13 +82,6 @@ There's lots of room for creativity in this game.
     </a>
     <a href="https://youtube.com/watch?v=BgLdA5bIYzU" target="_blank">
       <img src="https://img.youtube.com/vi/BgLdA5bIYzU/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
-    </a>
-    <a href="https://youtube.com/watch?v=BgLdA5bIYzU" target="_blank">
-      <img src="https://img.youtube.com/vi/arkJirp06fo/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
-    </a>
-    <a href="https://youtube.com/watch?v=BgLdA5bIYzU" target="_blank">
-      <img src="https://img.youtube.com/vi/WHHhoOZLTHE/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
-    </a>
   </div>
 </div>
 

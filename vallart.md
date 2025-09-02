@@ -27,7 +27,7 @@ We attempted to publish these games through the Voodoo platform but sadly they w
     </a>
   </div>
   <div class="game-video">
-    <iframe src="https://www.youtube.com/watch?v=cEA12Vj141o" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/cEA12Vj141o" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -45,7 +45,7 @@ We attempted to publish these games through the Voodoo platform but sadly they w
     </a>
   </div>
   <div class="game-video">
-    <iframe src="https://www.youtube.com/watch?v=dDD0e2OKhdw" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/dDD0e2OKhdw" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -63,7 +63,7 @@ We attempted to publish these games through the Voodoo platform but sadly they w
     </a>
   </div>
   <div class="game-video">
-    <iframe src="www.youtube.com/watch?v=tNbM6jm5St4missi" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/tNbM6jm5St4missi" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -80,8 +80,7 @@ We attempted to publish these games through the Voodoo platform but sadly they w
       <img src="assets/images/play-store-badge.png" alt="Download on the Play Store" class="app-store-badge">
     </a>
   </div>
-  <div class="game-video">
-		 
-    <iframe src="https://www.youtube.com/watch?v=tNbM6jm5St4" frameborder="0" allowfullscreen></iframe>
+  <div class="game-video">	 
+    <iframe src="https://www.youtube.com/embed/tNbM6jm5St4" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>

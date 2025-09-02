@@ -4,17 +4,7 @@ title: Voodoo
 ---
 
 # Voodoo (2022-Ongoing)
-Here you'll find a collection of my favourite work! I'm sure I've missed some stuff.. I must have made over 1000 ads since joining x_x
-
-<br>
-I also won the Creative award for having the best ads in the team!
-<div style="margin-top: 2rem;">
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7122487121264693248" height="729" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-</div>
-
-<br>
-Click on an ad to watch it!
-<br>
+Here you'll find a collection of my favourite work! I'm sure I've missed some stuff.. Click on an ad to watch it!
 
 ## Block Jam
 Block Jam is a classic match-3 puzzle game, it's one of Voodoos biggest titles.
@@ -221,3 +211,10 @@ And here are some other random ads that I enjoyed making!
     </a>
   </div>
 </div>
+
+<br>
+I also won the Creative award for having the best ads in the team!
+<div style="margin-top: 2rem;">
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7122487121264693248" height="729" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+</div>
+

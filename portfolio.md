@@ -14,7 +14,7 @@ To date, I’ve probably worked on over 1,000 ads with each being viewed by hund
 
 I primarily use Unity, After Effects, and Blender, and I typically have 1–2 working days to complete each ad from concept to final render.
 
-👉 <strong><a href="voodoo" style="color: #00aaff;">Click here for more info and to see some of my work!</a></strong>
+👉 <strong><a href="voodoo" style="color: #00aaff;">Click here to see the games we launched!</a></strong>
 
 ---
 

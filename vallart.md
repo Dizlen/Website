@@ -55,7 +55,7 @@ We attempted to publish these games through the Voodoo platform but sadly they w
 
 <div class="game-section">
   <div class="game-info">
-    <img src="assets/images/mm3d.jpg" alt="Missile Master Logo" class="game-icon">
+    <img src="assets/images/mm3d.png" alt="Missile Master Logo" class="game-icon">
     <p><strong>1k+ Downloads</strong></p>
     <p>We took the base gameplay from Missile Attack and tried to recreate it with a new "distance/goal" based gameplay. One of our weaknesses with the last game was our player retention, so we tried our best to keep the players playing for longer with this one.</p>
     <a href="https://play.google.com/store/apps/details?id=com.vallartstudios.missilemaster3d&hl=en" target="_blank">
@@ -73,7 +73,7 @@ We attempted to publish these games through the Voodoo platform but sadly they w
 
 <div class="game-section">
   <div class="game-info">
-    <img src="assets/images/lq.jpg" alt="Luggage Quest Logo" class="game-icon">
+    <img src="assets/images/lq.png" alt="Luggage Quest Logo" class="game-icon">
     <p><strong>100+ Downloads</strong></p>
     <p>Your job is to collect luggage in the correct order and distribute it to the right passengers waiting in line. But be careful—space is limited, so plan your moves wisely to avoid overcrowding!</p>
     <a href="https://play.google.com/store/apps/details?id=com.vallartstudios.luggagequest" target="_blank">

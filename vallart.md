@@ -27,7 +27,7 @@ We attempted to publish these games through the Voodoo platform but sadly they w
     </a>
   </div>
   <div class="game-video">
-    <iframe src="https://youtu.be/cEA12Vj141o?si=ipbaFTxl5Q6ZURL9" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/?v=cEA12Vj141o" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -43,7 +43,7 @@ We attempted to publish these games through the Voodoo platform but sadly they w
     </a>
   </div>
   <div class="game-video">
-    <iframe src="https://youtu.be/dDD0e2OKhdw?si=5AcZ8POo8qwQxb3c" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/v=dDD0e2OKhdw" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -60,7 +60,7 @@ We attempted to publish these games through the Voodoo platform but sadly they w
     </a>
   </div>
   <div class="game-video">
-    <iframe src="https://www.youtube.com/watch?v=TkTi_4xVpqQ" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/v=TkTi_4xVpqQ" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -76,7 +76,7 @@ We attempted to publish these games through the Voodoo platform but sadly they w
     </a>
   </div>
   <div class="game-video">
-    <iframe src="https://youtu.be/tNbM6jm5St4?si=DkjHiyh9wm5BTeXI" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/v=tNbM6jm5St4" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 

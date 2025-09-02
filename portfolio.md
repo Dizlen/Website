@@ -10,11 +10,24 @@ title: Portfolio
 
 At Voodoo, I work as a Marketing Developer which is a relatively new role in the games industry. My job is to take finished Unity games and transform them into short, engaging advertisements, often by prototyping new features or gameplay scenarios specifically for creative testing.
 
-To date, I’ve worked on over 1,000 ads with each being viewed by hundreds of thousands of users all over the world. Not all of them are hits, but each one brings a new creative challenge — which is what I love most about the role. I often describe it to friends as “like working on a game jam every day”.
+To date, I’ve probably worked on over 1,000 ads with each being viewed by hundreds of thousands of users all over the world. Not all of them are hits, but each one brings a new creative challenge — which is what I love most about the role. I often describe it to friends as “like working on a game jam every day”.
 
 I primarily use Unity, After Effects, and Blender, and I typically have 1–2 working days to complete each ad from concept to final render.
 
 👉 <strong><a href="voodoo" style="color: #00aaff;">Click here for more info and to see some of my work!</a></strong>
+
+---
+
+<div class="section-header">
+  <h2><a href="vallart" style="color: #f7c31f;">Vallart Studios (2024–2025)</a></h2>
+  <img src="assets/images/vallart.jpg" alt="Vallart logo" class="section-logo">
+</div>
+
+Vallart was founded by two guys making mobile game ads who wanted to get back into real game development.
+
+I worked on 4 games from the start, all the way up until they were on the playstore and we tried to publish with Voodoo. 
+
+👉 <strong><a href="vallart" style="color: #00aaff;">Click here for more info and to see some of my work!</a></strong>
 
 ---
 

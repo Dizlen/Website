@@ -31,6 +31,8 @@ We attempted to publish these games through the Voodoo platform but sadly they w
   </div>
 </div>
 
+---
+
 ## Merge Factory
 
 <div class="game-section">
@@ -47,6 +49,7 @@ We attempted to publish these games through the Voodoo platform but sadly they w
   </div>
 </div>
 
+---
 
 ## Missile Master 3D
 
@@ -64,6 +67,8 @@ We attempted to publish these games through the Voodoo platform but sadly they w
   </div>
 </div>
 
+---
+
 ## Luggage Quest
 
 <div class="game-section">
@@ -79,5 +84,3 @@ We attempted to publish these games through the Voodoo platform but sadly they w
     <iframe src="https://www.youtube.com/embed/v=tNbM6jm5St4" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
-
-

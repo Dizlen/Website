@@ -5,12 +5,9 @@ title: Voodoo
 
 # Voodoo (2022-Ongoing)
 Here you'll find a collection of my favourite ads! I'm sure I've missed some.. but I found these ones and thought they were pretty cool to show off.
+<br>
 Click on an ad to watch it!
-
-I also won the Creative award for having the best ads in the team!
-<div style="margin-top: 2rem;">
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7122487121264693248" height="729" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-</div>
+<br>
 
 ## Block Jam
 Block Jam is a classic match-3 puzzle game, it's one of Voodoos biggest titles.
@@ -54,6 +51,40 @@ It's one of the few games that has very nice character models, so I'm able to cr
     </a>
     <a href="https://youtube.com/watch?v=EmU1hUYfygU" target="_blank">
       <img src="https://img.youtube.com/vi/EmU1hUYfygU/hqdefault.jpg" class="video-thumb" alt="Block Jam video">
+    </a>
+  </div>
+</div>
+
+## Mob Control
+
+Mob Control is one of Voodoos big hits!
+There's lots of room for creativity in this game.
+
+<div class="video-thumb-grid-wrapper">
+  <div class="video-thumb-grid">
+    <a href="https://www.youtube.com/shorts/N5WS-ivh-kI" target="_blank">
+      <img src="https://img.youtube.com/vi/N5WS-ivh-kI/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
+    </a>
+    <a href="https://www.youtube.com/shorts/fAgojMiJugE" target="_blank">
+      <img src="https://img.youtube.com/vi/fAgojMiJugE/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
+    </a>
+    <a href="https://youtube.com/watch?v=jxYsk1Ugtdw" target="_blank">
+      <img src="https://img.youtube.com/vi/jxYsk1Ugtdw/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
+    </a>
+    <a href="https://www.youtube.com/shorts/3LeTZBJYiqo" target="_blank">
+      <img src="https://img.youtube.com/vi/3LeTZBJYiqo/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
+    </a>
+    <a href="https://youtube.com/watch?v=JQSj6RJBakw" target="_blank">
+      <img src="https://img.youtube.com/vi/JQSj6RJBakw/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
+    </a>
+    <a href="https://youtube.com/watch?v=BgLdA5bIYzU" target="_blank">
+      <img src="https://img.youtube.com/vi/BgLdA5bIYzU/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
+    </a>
+    <a href="https://youtube.com/watch?v=BgLdA5bIYzU" target="_blank">
+      <img src="https://img.youtube.com/vi/arkJirp06fo/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
+    </a>
+    <a href="https://youtube.com/watch?v=BgLdA5bIYzU" target="_blank">
+      <img src="https://img.youtube.com/vi/WHHhoOZLTHE/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
     </a>
   </div>
 </div>
@@ -116,31 +147,6 @@ It's not my favourite, but I came up with some pretty fun scenarios to catch use
     </a>
     <a href="https://youtube.com/watch?v=LqoBjyp4oGw" target="_blank">
       <img src="https://img.youtube.com/vi/LqoBjyp4oGw/hqdefault.jpg" class="video-thumb" alt="Coffee Pack video">
-    </a>
-  </div>
-</div>
-
-## Mob Control
-
-Mob Control is one of Voodoos big hits!
-There's lots of room for creativity in this game.
-
-<div class="video-thumb-grid-wrapper">
-  <div class="video-thumb-grid">
-    <a href="https://youtube.com/watch?v=jxYsk1Ugtdw" target="_blank">
-      <img src="https://img.youtube.com/vi/jxYsk1Ugtdw/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
-    </a>
-    <a href="https://youtube.com/watch?v=JQSj6RJBakw" target="_blank">
-      <img src="https://img.youtube.com/vi/JQSj6RJBakw/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
-    </a>
-    <a href="https://youtube.com/watch?v=BgLdA5bIYzU" target="_blank">
-      <img src="https://img.youtube.com/vi/BgLdA5bIYzU/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
-    </a>
-    <a href="https://youtube.com/watch?v=BgLdA5bIYzU" target="_blank">
-      <img src="https://img.youtube.com/vi/arkJirp06fo/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
-    </a>
-    <a href="https://youtube.com/watch?v=BgLdA5bIYzU" target="_blank">
-      <img src="https://img.youtube.com/vi/WHHhoOZLTHE/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
     </a>
   </div>
 </div>
@@ -210,4 +216,10 @@ And here are some other random ads that I enjoyed making!
       <img src="https://img.youtube.com/vi/h2dd2nEaECc/hqdefault.jpg" class="video-thumb" alt="UBOAT Attack video">
     </a>
   </div>
+</div>
+
+<br>
+I also won the Creative award for having the best ads in the team!
+<div style="margin-top: 2rem;">
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7122487121264693248" height="729" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </div>

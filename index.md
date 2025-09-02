@@ -4,7 +4,7 @@ title: Joseph Pollard
 ---
 
 Hey!
-I’m Joseph, a 28-year-old game developer based in Paris. I'm the co-founder of Vallart Studios and currently work at Voodoo, where I help create engaging ad content for their mobile games.
+I’m Joseph, a 28-year-old game developer from the UK who is currently based in Paris. I'm the co-founder of Vallart Studios and currently work at Voodoo, where I help create engaging ad content for their mobile games.
 Feel free to explore my [portfolio](./portfolio) to see some of the projects I’ve worked on.
 
 <p align="center">

@@ -81,6 +81,7 @@ We attempted to publish these games through the Voodoo platform but sadly they w
     </a>
   </div>
   <div class="game-video">
-    <iframe src="https://www.youtube.com/embed/v=tNbM6jm5St4" frameborder="0" allowfullscreen></iframe>
+		 
+    <iframe src="https://www.youtube.com/embed/tNbM6jm5St4ww.youtube.com/watch?v" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>

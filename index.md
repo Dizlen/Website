@@ -13,15 +13,13 @@ Feel free to explore my [portfolio](./portfolio) to see some of the projects Iâ€
 
 ---
 
-<h2><a href="current project" style="color: #f7c31f;">Current Project (Last Updated: 02/09/2025)</a></h2>
-
+<h2 style="color: #f7c31f;">What am I working on at the moment? (Last Updated: 02/09/2025)</h2>
 Here's what I've been working on the last few months, it's my FPS template project. I wanted to create a base first person controller project so that I could use it for anything I want in the future.
 I love games like Penumbra, Amnesia, Soma, and this controller was heavily inspired by the controller in those games.
 
 <iframe src="https://www.youtube.com/embed/HMPIxtsN5EQ" frameborder="0" allowfullscreen></iframe>
 
-
-<h2><a href="current project" style="color: #f7c31f;">Mech Jam Project 2025 (Last Updated: 02/09/2025)</a></h2>
+<h2 style="color: #f7c31f;">Mech Jam 2025</h2>
 It started as a game jam project but quickly evolved into something I'm going to continue working on! 
 The FPS template project helped me a ton for this and I'm glad that I could finally put it to use.
 

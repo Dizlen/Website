@@ -82,6 +82,7 @@ There's lots of room for creativity in this game.
     </a>
     <a href="https://youtube.com/watch?v=BgLdA5bIYzU" target="_blank">
       <img src="https://img.youtube.com/vi/BgLdA5bIYzU/hqdefault.jpg" class="video-thumb" alt="Mob Control video">
+    </a>
   </div>
 </div>
 

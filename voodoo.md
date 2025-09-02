@@ -22,6 +22,9 @@ It's one of the few games that has very nice character models, so I'm able to cr
     <a href="https://youtube.com/watch?v=W7H54im8bzw" target="_blank">
       <img src="https://img.youtube.com/vi/W7H54im8bzw/hqdefault.jpg" class="video-thumb" alt="Block Jam video">
     </a>
+    <a href="https://www.youtube.com/shorts/3Og2SPvXHJM" target="_blank">
+      <img src="https://img.youtube.com/vi/3Og2SPvXHJM/hqdefault.jpg" class="video-thumb" alt="Block Jam video">
+    </a>
     <a href="https://youtube.com/watch?v=b3A4ZIfSuCo" target="_blank">
       <img src="https://img.youtube.com/vi/b3A4ZIfSuCo/hqdefault.jpg" class="video-thumb" alt="Block Jam video">
     </a>
@@ -45,12 +48,6 @@ It's one of the few games that has very nice character models, so I'm able to cr
     </a>
     <a href="https://youtube.com/watch?v=_mwSjaeyqgo" target="_blank">
       <img src="https://img.youtube.com/vi/_mwSjaeyqgo/hqdefault.jpg" class="video-thumb" alt="Block Jam video">
-    </a>
-    <a href="https://youtube.com/watch?v=gBAslXsYlWM" target="_blank">
-      <img src="https://img.youtube.com/vi/gBAslXsYlWM/hqdefault.jpg" class="video-thumb" alt="Block Jam video">
-    </a>
-    <a href="https://youtube.com/watch?v=EmU1hUYfygU" target="_blank">
-      <img src="https://img.youtube.com/vi/EmU1hUYfygU/hqdefault.jpg" class="video-thumb" alt="Block Jam video">
     </a>
   </div>
 </div>

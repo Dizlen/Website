@@ -4,7 +4,14 @@ title: Voodoo
 ---
 
 # Voodoo (2022-Ongoing)
-Here you'll find a collection of my favourite ads! I'm sure I've missed some.. but I found these ones and thought they were pretty cool to show off.
+Here you'll find a collection of my favourite work! I'm sure I've missed some stuff.. I must have made over 1000 ads since joining x_x
+
+<br>
+I also won the Creative award for having the best ads in the team!
+<div style="margin-top: 2rem;">
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7122487121264693248" height="729" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+</div>
+
 <br>
 Click on an ad to watch it!
 <br>
@@ -213,10 +220,4 @@ And here are some other random ads that I enjoyed making!
       <img src="https://img.youtube.com/vi/h2dd2nEaECc/hqdefault.jpg" class="video-thumb" alt="UBOAT Attack video">
     </a>
   </div>
-</div>
-
-<br>
-I also won the Creative award for having the best ads in the team!
-<div style="margin-top: 2rem;">
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7122487121264693248" height="729" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </div>
